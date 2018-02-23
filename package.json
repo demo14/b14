@@ -1,0 +1,23 @@
+{
+  "name": "b14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikshepAV/b14.git"
+  },
+  "author": "Nikshep Nishanth Pavan Pujith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikshepAV/b14/issues"
+  },
+  "homepage": "https://github.com/NikshepAV/b14#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
